@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cf162dc-f961-4499-b164-f3b60ec3a9ff" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="REST" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13119">
+              <caret line="669" column="11" selection-start-line="669" selection-start-column="11" selection-end-line="669" selection-end-column="11" />
+              <folding>
+                <element signature="e#38#94#0#PHP" expanded="true" />
+                <marker date="1532928958098" expanded="true" signature="21305:21335" ph="DELETE FROM " />
+                <marker date="1532928958098" expanded="true" signature="21610:21650" ph="UPDATE tasks... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DaoUsuarioXapps.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6946">
+              <caret line="302" selection-start-line="302" selection-end-line="302" />
+              <folding>
+                <marker date="1532928843713" expanded="true" signature="434:455" ph="SELECT * FRO... usuario" />
+                <marker date="1532928843713" expanded="true" signature="613:679" ph="SELECT count... " />
+                <marker date="1532928843713" expanded="true" signature="1121:1907" ph="UPDATE usuar... " />
+                <marker date="1532928843713" expanded="true" signature="2318:2336" ph="UPDATE usuar... " />
+                <marker date="1532928843713" expanded="true" signature="2703:2736" ph="SELECT * FRO... usuario" />
+                <marker date="1532928843713" expanded="true" signature="3133:3213" ph="SELECT * FRO... usuario" />
+                <marker date="1532928843713" expanded="true" signature="4741:4781" ph="SELECT * FRO... usuario" />
+                <marker date="1532928843713" expanded="true" signature="5149:5292" ph="INSERT INTO usuario... " />
+                <marker date="1532928843713" expanded="true" signature="6018:6546" ph="UPDATE usuar... " />
+                <marker date="1532928843713" expanded="true" signature="6995:7128" ph="INSERT INTO feel_job... " />
+                <marker date="1532928843713" expanded="true" signature="7555:7614" ph="UPDATE usuar... " />
+                <marker date="1532928843713" expanded="true" signature="8075:8202" ph="SELECT * FRO... usuario" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Uteis.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DaoUsuario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5980">
+              <caret line="260" column="18" selection-start-line="260" selection-start-column="18" selection-end-line="260" selection-end-column="18" />
+              <folding>
+                <marker date="1532928849387" expanded="true" signature="429:450" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="612:670" ph="SELECT FROM usuario... " />
+                <marker date="1532928849387" expanded="true" signature="612:682" ph="SELECT FROM usuario... " />
+                <marker date="1532928849387" expanded="true" signature="612:683" ph="SELECT count... " />
+                <marker date="1532928849387" expanded="true" signature="1119:1175" ph="SELECT count... " />
+                <marker date="1532928849387" expanded="true" signature="1119:1176" ph="SELECT count... " />
+                <marker date="1532928849387" expanded="true" signature="1119:1184" ph="SELECT count... " />
+                <marker date="1532928849387" expanded="true" signature="1119:1185" ph="SELECT count... " />
+                <marker date="1532928849387" expanded="true" signature="1627:1661" ph="INSERT INTO usuario... " />
+                <marker date="1532928849387" expanded="true" signature="1627:1687" ph="INSERT INTO usuario... " />
+                <marker date="1532928849387" expanded="true" signature="1627:1728" ph="INSERT INTO usuario... " />
+                <marker date="1532928849387" expanded="true" signature="2197:3067" ph="UPDATE usuar... " />
+                <marker date="1532928849387" expanded="true" signature="2204:3067" ph="INSERT INTO usuario... " />
+                <marker date="1532928849387" expanded="true" signature="3465:3483" ph="UPDATE usuar... " />
+                <marker date="1532928849387" expanded="true" signature="3850:3883" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="4254:4374" ph="SELECT count... " />
+                <marker date="1532928849387" expanded="true" signature="4697:5011" ph="INSERT INTO cartao... " />
+                <marker date="1532928849387" expanded="true" signature="5193:5226" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="5622:5662" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="5817:5928" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="5817:5946" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="6641:6721" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="6641:6725" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="8236:8316" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="9870:9961" ph="SELECT count... " />
+                <marker date="1532928849387" expanded="true" signature="9870:10158" ph="SELECT count... " />
+                <marker date="1532928849387" expanded="true" signature="10631:10771" ph="INSERT INTO contabanco... " />
+                <marker date="1532928849387" expanded="true" signature="10631:11055" ph="INSERT INTO contabanco... " />
+                <marker date="1532928849387" expanded="true" signature="11561:11601" ph="SELECT * FRO... usuario" />
+                <marker date="1532928849387" expanded="true" signature="11984:12028" ph="SELECT * FRO... contabanco" />
+                <marker date="1532928849387" expanded="true" signature="12168:12383" ph="INSERT INTO transacoes... " />
+                <marker date="1532928849387" expanded="true" signature="12168:12399" ph="INSERT INTO transacoes... " />
+                <marker date="1532928849387" expanded="true" signature="12168:12401" ph="INSERT INTO transacoes... " />
+                <marker date="1532928849387" expanded="true" signature="12863:12907" ph="SELECT * FRO... transacoes" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+      <find>carta</find>
+      <find />
+      <find>CPF</find>
+      <find>CARTAO</find>
+      <find>$user['id']</find>
+      <find>/insert/cartao</find>
+      <find>/insert/cartao/</find>
+      <find>/pagarme/insert/bank_accounts/</find>
+      <find>/select/cartoes/</find>
+      <find>cadastra</find>
+      <find>complete seus</find>
+      <find>insert</find>
+      <find>select/</find>
+      <find>127.0.0.1</find>
+      <find>loginGoogle</find>
+      <find>cobraCa</find>
+      <find>ak</find>
+      <find>ek</find>
+      <find>/pagarme/cobraCartao/</find>
+      <find>datacase</find>
+      <find>$container['db']</find>
+      <find>$this-</find>
+      <find>dataca</find>
+      <find>login</find>
+      <find>loginFB</find>
+      <find>/pagarme/datac/cobraCartao/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>simc.com.br</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/rest.php" />
+        <option value="$PROJECT_DIR$/rest_user.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp59112/Library/WebServer/Documents/process_sentinel.sh" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp58720/var/www/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp02663/var/www/index.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/index 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/autoload.php" />
+        <option value="$PROJECT_DIR$/Uteis.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/UploadedFile.php" />
+        <option value="$PROJECT_DIR$/DaoUsuario.php" />
+        <option value="$USER_HOME$/Downloads/ingresso.postman_collection.json" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$USER_HOME$/Documents/New Unity Project/Assets/addForce.cs" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="267" />
+    <option name="width" value="1660" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="false" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="REST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="REST" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="PHP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DATACASE/kegkong-server/REST" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\suga\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cf162dc-f961-4499-b164-f3b60ec3a9ff" name="Default" comment="" />
+      <created>1527370589736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527370589736</updated>
+      <workItem from="1527370590931" duration="2860000" />
+      <workItem from="1527395917751" duration="38000" />
+      <workItem from="1527869954677" duration="1387000" />
+      <workItem from="1527876036144" duration="1429000" />
+      <workItem from="1527912240283" duration="446000" />
+      <workItem from="1527912766347" duration="20000" />
+      <workItem from="1527913552714" duration="180000" />
+      <workItem from="1527914183669" duration="16070000" />
+      <workItem from="1528046808626" duration="3702000" />
+      <workItem from="1528058879053" duration="11484000" />
+      <workItem from="1528510880821" duration="35601000" />
+      <workItem from="1529278120499" duration="7855000" />
+      <workItem from="1529507379930" duration="43630000" />
+      <workItem from="1530997948766" duration="21851000" />
+      <workItem from="1531491744241" duration="7200000" />
+      <workItem from="1531593105633" duration="22762000" />
+      <workItem from="1532061715696" duration="3605000" />
+      <workItem from="1532144160948" duration="813000" />
+      <workItem from="1532204370901" duration="824000" />
+      <workItem from="1532915986608" duration="6991000" />
+      <workItem from="1533745408361" duration="204000" />
+      <workItem from="1535223879080" duration="26000" />
+      <workItem from="1535223906659" duration="646000" />
+      <workItem from="1535674878300" duration="4469000" />
+      <workItem from="1536261500324" duration="1967000" />
+      <workItem from="1560036595809" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196150000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="267" y="0" width="1660" height="1087" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.30387932" visible="true" weight="0.249375" />
+      <window_info id="Structure" order="1" sideWeight="0.6961207" side_tool="true" visible="true" weight="0.249375" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>452</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>569</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>109</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>91</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>278</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>227</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/rest.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/db.php" />
+    <entry file="file://$PROJECT_DIR$/rest_user.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp32678/Library/WebServer/Documents/rest.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp59112/Library/WebServer/Documents/process_sentinel.sh" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp58720/var/www/index.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp02663/var/www/index.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/index 2.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="344" column="9" selection-start-line="344" selection-start-column="9" selection-end-line="344" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/autoload.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="266" column="9" selection-start-line="266" selection-start-column="9" selection-end-line="266" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_defines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="269" column="9" selection-start-line="269" selection-start-column="9" selection-end-line="269" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/UploadedFile.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="144" column="9" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../CLOUD_CRM/sentinel2/process_sentinel.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="53" column="8" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/curl/curl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="2267" column="9" selection-start-line="2267" selection-start-column="9" selection-end-line="2267" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ingresso.postman_collection.json" />
+    <entry file="file://$USER_HOME$/Documents/New Unity Project/Assets/addForce.cs" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13119">
+          <caret line="669" column="11" selection-start-line="669" selection-start-column="11" selection-end-line="669" selection-end-column="11" />
+          <folding>
+            <element signature="e#38#94#0#PHP" expanded="true" />
+            <marker date="1532928958098" expanded="true" signature="21305:21335" ph="DELETE FROM " />
+            <marker date="1532928958098" expanded="true" signature="21610:21650" ph="UPDATE tasks... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DaoUsuarioXapps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6946">
+          <caret line="302" selection-start-line="302" selection-end-line="302" />
+          <folding>
+            <marker date="1532928843713" expanded="true" signature="434:455" ph="SELECT * FRO... usuario" />
+            <marker date="1532928843713" expanded="true" signature="613:679" ph="SELECT count... " />
+            <marker date="1532928843713" expanded="true" signature="1121:1907" ph="UPDATE usuar... " />
+            <marker date="1532928843713" expanded="true" signature="2318:2336" ph="UPDATE usuar... " />
+            <marker date="1532928843713" expanded="true" signature="2703:2736" ph="SELECT * FRO... usuario" />
+            <marker date="1532928843713" expanded="true" signature="3133:3213" ph="SELECT * FRO... usuario" />
+            <marker date="1532928843713" expanded="true" signature="4741:4781" ph="SELECT * FRO... usuario" />
+            <marker date="1532928843713" expanded="true" signature="5149:5292" ph="INSERT INTO usuario... " />
+            <marker date="1532928843713" expanded="true" signature="6018:6546" ph="UPDATE usuar... " />
+            <marker date="1532928843713" expanded="true" signature="6995:7128" ph="INSERT INTO feel_job... " />
+            <marker date="1532928843713" expanded="true" signature="7555:7614" ph="UPDATE usuar... " />
+            <marker date="1532928843713" expanded="true" signature="8075:8202" ph="SELECT * FRO... usuario" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Uteis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DaoUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5980">
+          <caret line="260" column="18" selection-start-line="260" selection-start-column="18" selection-end-line="260" selection-end-column="18" />
+          <folding>
+            <marker date="1532928849387" expanded="true" signature="429:450" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="612:670" ph="SELECT FROM usuario... " />
+            <marker date="1532928849387" expanded="true" signature="612:682" ph="SELECT FROM usuario... " />
+            <marker date="1532928849387" expanded="true" signature="612:683" ph="SELECT count... " />
+            <marker date="1532928849387" expanded="true" signature="1119:1175" ph="SELECT count... " />
+            <marker date="1532928849387" expanded="true" signature="1119:1176" ph="SELECT count... " />
+            <marker date="1532928849387" expanded="true" signature="1119:1184" ph="SELECT count... " />
+            <marker date="1532928849387" expanded="true" signature="1119:1185" ph="SELECT count... " />
+            <marker date="1532928849387" expanded="true" signature="1627:1661" ph="INSERT INTO usuario... " />
+            <marker date="1532928849387" expanded="true" signature="1627:1687" ph="INSERT INTO usuario... " />
+            <marker date="1532928849387" expanded="true" signature="1627:1728" ph="INSERT INTO usuario... " />
+            <marker date="1532928849387" expanded="true" signature="2197:3067" ph="UPDATE usuar... " />
+            <marker date="1532928849387" expanded="true" signature="2204:3067" ph="INSERT INTO usuario... " />
+            <marker date="1532928849387" expanded="true" signature="3465:3483" ph="UPDATE usuar... " />
+            <marker date="1532928849387" expanded="true" signature="3850:3883" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="4254:4374" ph="SELECT count... " />
+            <marker date="1532928849387" expanded="true" signature="4697:5011" ph="INSERT INTO cartao... " />
+            <marker date="1532928849387" expanded="true" signature="5193:5226" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="5622:5662" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="5817:5928" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="5817:5946" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="6641:6721" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="6641:6725" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="8236:8316" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="9870:9961" ph="SELECT count... " />
+            <marker date="1532928849387" expanded="true" signature="9870:10158" ph="SELECT count... " />
+            <marker date="1532928849387" expanded="true" signature="10631:10771" ph="INSERT INTO contabanco... " />
+            <marker date="1532928849387" expanded="true" signature="10631:11055" ph="INSERT INTO contabanco... " />
+            <marker date="1532928849387" expanded="true" signature="11561:11601" ph="SELECT * FRO... usuario" />
+            <marker date="1532928849387" expanded="true" signature="11984:12028" ph="SELECT * FRO... contabanco" />
+            <marker date="1532928849387" expanded="true" signature="12168:12383" ph="INSERT INTO transacoes... " />
+            <marker date="1532928849387" expanded="true" signature="12168:12399" ph="INSERT INTO transacoes... " />
+            <marker date="1532928849387" expanded="true" signature="12168:12401" ph="INSERT INTO transacoes... " />
+            <marker date="1532928849387" expanded="true" signature="12863:12907" ph="SELECT * FRO... transacoes" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
